@@ -1,0 +1,20 @@
+/* Website ka main background aur style */
+body {
+    background-color: #f7f7f7;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+/* Heading ka style (Pinterest Red Color) */
+h1 {
+    color: #bd081c; /* Pinterest ka official red color */
+    font-size: 28px;
+}
+
+/* Paragraph ka style */
+p {
+    color: #555555;
+    font-size: 16px;
+}
